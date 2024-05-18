@@ -1,0 +1,20 @@
+
+* 
+    {
+    margin: 0; /* Removes any default margin (space) around the element */
+    padding: 0; /* Removes any default padding (space inside the element) around the element */
+    box-sizing: border-box; /* Changes the box model to include padding and border in the element's width and height calculations */
+    text-decoration: none; /* Removes any default text decoration (e.g., underline) from the element */
+    border: none; /* Removes any default border from the element */
+    outline: none; /* Removes any default outline (usually a dotted line) from the element */
+    scroll-behavior: smooth; /* Enables smooth scrolling behavior for the element */
+    font-family: "Poppins", sans-serif; /* Sets the font family to "Poppins" with a fallback to a sans-serif font */
+    }
+
+:root 
+    {
+    --bg-color: #080808; /* Sets a custom property (variable) for the background color to a dark gray color */
+    --second-bg-color: #131313; /* Sets a custom property for a secondary background color to a darker gray color */
+    --text-color: white; /* Sets a custom property for the text color to white */
+    --main-color: #00ffee; /* Sets a custom property for the main color to a bright blue-green color */
+    }
